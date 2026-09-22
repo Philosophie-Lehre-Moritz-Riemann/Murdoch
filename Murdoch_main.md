@@ -24,6 +24,13 @@ narrator: UK English Female
 
 **Empfohlene Literatur**
 
+## Primärtext
+Primärtext ist Iris Murdoch, Die Souveränität des Guten, übers. Eva-Maria Düringer, Frankfurt a. M.: Suhrkamp 2023.
+Bitte beschaffen Sie sich das Buch vor der ersten Sitzung.
+Zu Beginn des Semesters wird eine ergänzende Textauswahl über OLAT bereitgestellt. 
+
+## Sekundärliteratur
+
 # "Regierungserklärung"
 
 1. Die Teilnahme am Seminar erfordert die vorbereitende, gründliche Lektüre der Texte.
@@ -168,12 +175,3 @@ Es bestehen verschiedene Möglichkeiten, einen Essay zu verfassen. Jonas Pfister
 [^3]: Vgl. Pfister, Jonas: *Werkzeuge des Philosophierens*. S.246-250.
 
 [^4]: Vgl. Rosenberg, Jay F.: *Philosophieren. Ein Handbuch für Anfänger*. Frankfurt a. M. 2009. S.81.
-
-## Literaturhinweise
-
-## Primärtext
-Primärtext ist Iris Murdoch, Die Souveränität des Guten, übers. Eva-Maria Düringer, Frankfurt a. M.: Suhrkamp 2023.
-Bitte beschaffen Sie sich das Buch vor der ersten Sitzung.
-Zu Beginn des Semesters wird eine ergänzende Textauswahl über OLAT bereitgestellt. 
-
-## Sekundärliteratur
