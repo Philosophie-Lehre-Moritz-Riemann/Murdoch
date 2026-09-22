@@ -30,6 +30,10 @@ Bitte beschaffen Sie sich das Buch vor der ersten Sitzung.
 Zu Beginn des Semesters wird eine ergänzende Textauswahl über OLAT bereitgestellt. 
 
 ## Sekundärliteratur
+* Iris Murdoch and Her Work: Critical Essays, edited by Mustafa Kirca, and Sule Okuroglu, Ibidem Verlag, 2014. - (Uni-Netz)
+* Lipscomb, Benjamin J.B., The Women Are Up to Something: How Elizabeth Anscombe, Philippa Foot, Mary Midgley, and Iris Murdoch Revolutionized Ethics, New York 2021. - (Uni-Netz)
+* Murdoch, Iris: Metaphysics as a Guide to Morals, New York: Penguin 1992. 
+* Murdoch, Iris: Existentialists and Mystics – Writings on Philosophy and Literature, Peter Conradi (Hrsg.), New York: Penguin Books 1997.
 
 # "Regierungserklärung"
 
