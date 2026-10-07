@@ -51,21 +51,21 @@ Zu Beginn des Semesters wird eine ergänzende Textauswahl über OLAT bereitgeste
 * PHF-phil-WP (Philosophische Reflexion und ethische Urteilskraft) 
 
 ## Semesterplan
-|21.10.2026| **Eröffnung, Organisatorisches** | **Protokoll** 
+|21.10.2026| **Eröffnung, Organisatorisches** | **Protokoll** |
 |-----------------|-----------|-----------------|
-| 28.10.2026 |---|---|
-| 04.11.2026 |---|---|
-| 11.11.2026 |---|---|
-| 18.11.2026 |---|---|
-| 25.11.2026 |---|---|
-| 02.12.2026 |---|---|
-| 09.12.2026 |---|---|
-| 16.12.2026 |---|---|
+| 28.10.2026 |Die Idee der Vollkommenheit|---|
+| 04.11.2026 |Die Idee der Vollkommenheit|---|
+| 11.11.2026 |Die Idee der Vollkommenheit|---|
+| 18.11.2026 |Die Idee der Vollkommenheit|---|
+| 25.11.2026 |Über "Gott" und "Gut"|Sitzung entfällt eventuell|
+| 02.12.2026 |Über "Gott" und "Gut"|---|
+| 09.12.2026 |Über "Gott" und "Gut"|---|
+| 16.12.2026 |Die Souveränität des Guten über andere Begriffe|---|
 | 21.12.2026-03.01.2027 |**unterrichtsfrei**|---|
-| 06.01.2027 |---|---|
-| 13.01.2027 |---|---|
-| 20.01.2027 |---|---|
-| 27.01.2027 |---|---|
+| 06.01.2027 |Die Souveränität des Guten über andere Begriffe|---|
+| 13.01.2027 |Sitzung entfällt|---|
+| 20.01.2027 |Die Souveränität des Guten über andere Begriffe|---|
+| 27.01.2027 |Nachwort von Düringer und Themenfindung |---|
 | 03.02.2027 |**Abschlussdiskussion**|---|
 
 # Hinweise für das Verfassen von Sitzungsprotokollen
