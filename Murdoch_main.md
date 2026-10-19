@@ -20,35 +20,33 @@ narrator: UK English Female
 * Zeit und Ort: Mi 14:15 - 15:45, LS4 - R.EG.36
 *  Vom 20.10.2026 bis zum 9.2.2027
 
-**Inhalt**
 
-**Empfohlene Literatur**
 
-## Primärtext
-Primärtext ist Iris Murdoch, Die Souveränität des Guten, übers. Eva-Maria Düringer, Frankfurt a. M.: Suhrkamp 2023.
-Bitte beschaffen Sie sich das Buch vor der ersten Sitzung.
-Zu Beginn des Semesters wird eine ergänzende Textauswahl über OLAT bereitgestellt. 
-
-## Sekundärliteratur
-* Iris Murdoch and Her Work: Critical Essays, edited by Mustafa Kirca, and Sule Okuroglu, Ibidem Verlag, 2014. - (Uni-Netz)
-* Lipscomb, Benjamin J.B., The Women Are Up to Something: How Elizabeth Anscombe, Philippa Foot, Mary Midgley, and Iris Murdoch Revolutionized Ethics, New York 2021. - (Uni-Netz)
-* Murdoch, Iris: Metaphysics as a Guide to Morals, New York: Penguin 1992. 
-* Murdoch, Iris: Existentialists and Mystics – Writings on Philosophy and Literature, Peter Conradi (Hrsg.), New York: Penguin Books 1997.
-
-# "Regierungserklärung"
+## "Regierungserklärung"
 
 1. Die Teilnahme am Seminar erfordert die vorbereitende, gründliche Lektüre der Texte.
 2. Eine regelmäßige und aktive Teilnahme aller Seminarteilnehmenden ist Voraussetzung für ein gelingendes Seminar.
 3. Philosophische Seminare leben vom diskursiven Austausch. Nehmt in Euren Diskussionsbeiträgen auf den Text und aufeinander Bezug, lasst einander ausreden und vermeidet lange, abschweifende Exkurse.
-4. Meine Sprechsstunde (Mittwoch 10:15-11:30) ist offen für alle Anliegen, es ist keine Anmeldung erforderlich.
-5. Bevor Ihr eine Email schreibt: Seht im Seminarplan nach, ob die gesuchte Information dort zu finden ist.
+4. Das Handy bleibt während der Sitzung in der Tasche. Lektüresitzungen sind analog. Alles, was ihr braucht sind Buch, Stift und Notizpapier.
+5. Meine Sprechsstunde (Montag 16:15-17:30) ist offen für alle Anliegen, es ist keine Anmeldung erforderlich.
+6. Bevor Ihr eine Email schreibt: Seht im Seminarplan nach, ob die gesuchte Information dort zu finden ist.
 
 ## Zuordnung und Prüfungsleistungen
 
-* PHF-phil-BA 2 (Geschichte der Philosophie: Gegenwart)
-* PHF-phil-BA 4 (Einführung in die praktische Philosophie)
-* PHF-phil-BA 6 (Praktische Philosophie Vertiefung)
-* PHF-phil-WP (Philosophische Reflexion und ethische Urteilskraft) 
+* PHF-phil-BA2 (Geschichte der Philosophie – Gegenwart)
+  - Ergebnisprotokoll im Umfang von 2-3 Seiten. Das Protokoll soll die wesentlichen Inhalte einer Seminarssitzung ergebnisorientiert und systematisch zusammenfassen. Die Anmeldung zum Protokoll erfolgt zu Beginn der Sitzung. Es ist bis Dienstag, 18 Uhr nach der protokollierten Sitzung im OLAT-Teilnehmerordner hochzuladen und dient damit der Rekapitulation zu Beginn der folgenden Sitzung. Beachten Sie die Handreichung zum Erstellen eines Protokolls im OLAT-Ordner 
+
+* PHF-phil-BA4 (Einführung in die theoretische Philosophie)
+  - Präsenzklausur in der ersten Woche des Prüfungszeitraums. Termin und Ort werden bekannt gegeben.
+
+* PHF-phil-BA6 (Theoretische Philosophie II – Vertiefung)
+  - Hausarbeit im Umfang von 10 Textseiten. Individuelle und eigenständige Themenfindung aus dem Themenbereich des Seminars. Ein persönliches Gespräch mit dem Dozenten (Sprechstunde) zur Vorbereitung ist Voraussetzung für die Annahme der Arbeit. Abgabe: 31.03.2025
+
+* PHF-phil-WP (Philosophische Reflexion und ethische Urteilskraft)
+   - Essay im Umfang von 5-7 Textseiten. Individuelle und eigenständige Themenfindung aus dem Themenbereich des Seminars. Ein persönliches Gespräch mit dem Dozenten (Sprechstunde) zur Vorbereitung ist Voraussetzung für die Annahme der Arbeit. Abgabe: 31.03.2025
+
+ * Beachten Sie die Handreichung zum wissenschaftlichen Arbeiten im Fach Philosophie. Jedes Referat, jede Hausarbeit und jeder Essay sind im Vorfeld in der Sprechstunde abzustimmen. Der Abgabetermin für die schriftlichen Prüfungsleistungen ist der 15.10.2024. Die Abgabe erfolgt als Ausdruck, mit Deckblatt und unterschriebener Eigenständigkeitserklärung an der Hauptpforte oder im Briefkasten für Prüfungsleistungen in der LS4. Keine Abgabe per Email!
+
 
 ## Semesterplan
 |21.10.2026| **Eröffnung, Organisatorisches** | **Protokoll** |
@@ -67,6 +65,22 @@ Zu Beginn des Semesters wird eine ergänzende Textauswahl über OLAT bereitgeste
 | 20.01.2027 |Die Souveränität des Guten über andere Begriffe|---|
 | 27.01.2027 |Nachwort von Düringer und Themenfindung |---|
 | 03.02.2027 |**Abschlussdiskussion**|---|
+
+
+## Literaturempfehlungen
+
+### Primärtext
+Primärtext ist Iris Murdoch, Die Souveränität des Guten, übers. Eva-Maria Düringer, Frankfurt a. M.: Suhrkamp 2023.
+Bitte beschaffen Sie sich das Buch vor der ersten Sitzung.
+Zu Beginn des Semesters wird eine ergänzende Textauswahl über OLAT bereitgestellt. 
+
+### Literatur
+* Iris Murdoch and Her Work: Critical Essays, edited by Mustafa Kirca, and Sule Okuroglu, Ibidem Verlag, 2014. - (Uni-Netz)
+* Lipscomb, Benjamin J.B., The Women Are Up to Something: How Elizabeth Anscombe, Philippa Foot, Mary Midgley, and Iris Murdoch Revolutionized Ethics, New York 2021. - (Uni-Netz)
+* Murdoch, Iris: Metaphysics as a Guide to Morals, New York: Penguin 1992. 
+* Murdoch, Iris: Existentialists and Mystics – Writings on Philosophy and Literature, Peter Conradi (Hrsg.), New York: Penguin Books 1997.
+* Mac Cumhail, Clare; Wiseman, Racheal: The Quartet. Wie vier Frauen die Philosophie zurück ins Leben brachten. München 2022. (Original: Metaphysical Animals. How Four Women Brought Philosophy Back to Life.) 
+
 
 # Hinweise für das Verfassen von Sitzungsprotokollen
 
