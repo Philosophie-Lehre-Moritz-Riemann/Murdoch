@@ -65,7 +65,8 @@ narrator: UK English Female
 | 13.01.2027 |Sitzung entfällt|---|
 | 20.01.2027 |Die Souveränität des Guten über andere Begriffe|---|
 | 27.01.2027 |Nachwort von Düringer und Themenfindung |---|
-| 03.02.2027 |**Abschlussdiskussion**|---|
+| 03.02.2027 |**Abschlussdiskussion**|kein Protokoll|
+|KW 6 | Abschlussklausur ||
 
 
 ## Literaturempfehlungen
