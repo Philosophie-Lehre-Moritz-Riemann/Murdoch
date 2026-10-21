@@ -15,14 +15,11 @@ narrator: UK English Female
 
 
 
-* Moritz Riemann (<riemann@philsem.uni-kiel.de>)
-* Sprechstunde: Mittwoch 10:15-11:30, Boschstraße 1, R. 01.001
-
-# Angaben 
-
+* Dozent: Moritz Riemann (<riemann@philsem.uni-kiel.de>)
+* Sprechstunde: Montag 16:15-17:30, Boschstraße 1, R. 01.001
 * Seminar, 2 SWS
 * Zeit und Ort: Mi 14:15 - 15:45, LS4 - R.EG.36
-*  Vom 20.10.2026 bis zum 9.2.2027
+* Vom 21.10.2026 bis zum 3.2.2027
 
 
 
@@ -38,16 +35,16 @@ narrator: UK English Female
 ## Zuordnung und Prüfungsleistungen
 
 * PHF-phil-BA2 (Geschichte der Philosophie – Gegenwart)
-  - Ergebnisprotokoll im Umfang von 2-3 Seiten. Das Protokoll soll die wesentlichen Inhalte einer Seminarssitzung ergebnisorientiert und systematisch zusammenfassen. Die Anmeldung zum Protokoll erfolgt zu Beginn der Sitzung. Es ist bis Dienstag, 18 Uhr nach der protokollierten Sitzung im OLAT-Teilnehmerordner hochzuladen und dient damit der Rekapitulation zu Beginn der folgenden Sitzung. Beachten Sie die Handreichung zum Erstellen eines Protokolls im OLAT-Ordner 
+  - Ergebnisprotokoll im Umfang von 2-3 Seiten. Das Protokoll soll die wesentlichen Inhalte einer Seminarssitzung ergebnisorientiert und systematisch zusammenfassen. Die Anmeldung zum Protokoll erfolgt zu Beginn der Sitzung. Es ist bis Montag, 12 Uhr nach der protokollierten Sitzung im OLAT-Teilnehmerordner hochzuladen und dient damit der Rekapitulation zu Beginn der folgenden Sitzung. Beachten Sie die Handreichung zum Erstellen eines Protokolls im Kursmaterial
 
 * PHF-phil-BA4 (Einführung in die theoretische Philosophie)
   - Präsenzklausur in der ersten Woche des Prüfungszeitraums. Termin und Ort werden bekannt gegeben.
 
 * PHF-phil-BA6 (Theoretische Philosophie II – Vertiefung)
-  - Hausarbeit im Umfang von 10 Textseiten. Individuelle und eigenständige Themenfindung aus dem Themenbereich des Seminars. Ein persönliches Gespräch mit dem Dozenten (Sprechstunde) zur Vorbereitung ist Voraussetzung für die Annahme der Arbeit. Abgabe: 31.03.2025
+  - Hausarbeit im Umfang von 10 Textseiten. Individuelle und eigenständige Themenfindung aus dem Themenbereich des Seminars. Ein persönliches Gespräch mit dem Dozenten (Sprechstunde) zur Vorbereitung ist Voraussetzung für die Annahme der Arbeit. Abgabe: 31.03.2027
 
 * PHF-phil-WP (Philosophische Reflexion und ethische Urteilskraft)
-   - Essay im Umfang von 5-7 Textseiten. Individuelle und eigenständige Themenfindung aus dem Themenbereich des Seminars. Ein persönliches Gespräch mit dem Dozenten (Sprechstunde) zur Vorbereitung ist Voraussetzung für die Annahme der Arbeit. Abgabe: 31.03.2025
+   - Essay im Umfang von 5-7 Textseiten. Individuelle und eigenständige Themenfindung aus dem Themenbereich des Seminars. Ein persönliches Gespräch mit dem Dozenten (Sprechstunde) zur Vorbereitung ist Voraussetzung für die Annahme der Arbeit. Abgabe: 31.03.2027
 
  * Beachten Sie die Handreichung zum wissenschaftlichen Arbeiten im Fach Philosophie. Jedes Referat, jede Hausarbeit und jeder Essay sind im Vorfeld in der Sprechstunde abzustimmen. Der Abgabetermin für die schriftlichen Prüfungsleistungen ist der 15.10.2024. Die Abgabe erfolgt als Ausdruck, mit Deckblatt und unterschriebener Eigenständigkeitserklärung an der Hauptpforte oder im Briefkasten für Prüfungsleistungen in der LS4. Keine Abgabe per Email!
 
