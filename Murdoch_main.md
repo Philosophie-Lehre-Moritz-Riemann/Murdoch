@@ -11,7 +11,7 @@ narrator: UK English Female
 
 # Iris Murdoch: Die Souveränität des Guten
 
-![alt-text](\img\Iris-Murdoch-2.jpg)
+![alt-text](/img/Iris-Murdoch-2.jpg)
 
 
 
