@@ -74,11 +74,19 @@ Primärtext ist Iris Murdoch, Die Souveränität des Guten, übers. Eva-Maria D�
 Bitte beschaffen Sie sich das Buch vor der ersten Sitzung.
 Zu Beginn des Semesters wird eine ergänzende Textauswahl über OLAT bereitgestellt. 
 
-### Literatur
+### Werke von Iris Murdoch
+
+- Sartre: Romantic Rationalist, New Haven, CT: Yale University Press, (1953)
+- The Sovereignty of Good, New York: Routledge, (1970); deutsche Ausgabe: Die Souveränität des Guten. Aus dem Englischen und mit einem Nachwort von Eva-Maria Düringer, Suhrkamp,  Berlin 2023, ISBN 978-3-518-29992-0.
+- The Fire and the Sun – Why Plato Banished the Artists, Oxford: Clarendon Press, (1977)
+- Acastos: Two Platonic Dialogues (1986)
+- Metaphysics as a Guide to Morals, New York: Penguin (1992)
+- Existentialists and Mystics – Writings on Philosophy and Literature, Peter Conradi (Hrsg.), New York: Penguin Books, (1997)
+- ‘Thinking and Language’, in: Conradi, Peter (ed.): Existentialists and Mystics: Writings on Philosophy and Literature, Harmondsworth: Penguin Books, (1999)
+
+### Literatur über IRis Murdoch
 * Iris Murdoch and Her Work: Critical Essays, edited by Mustafa Kirca, and Sule Okuroglu, Ibidem Verlag, 2014. - (Uni-Netz)
 * Lipscomb, Benjamin J.B., The Women Are Up to Something: How Elizabeth Anscombe, Philippa Foot, Mary Midgley, and Iris Murdoch Revolutionized Ethics, New York 2021. - (Uni-Netz)
-* Murdoch, Iris: Metaphysics as a Guide to Morals, New York: Penguin 1992. 
-* Murdoch, Iris: Existentialists and Mystics – Writings on Philosophy and Literature, Peter Conradi (Hrsg.), New York: Penguin Books 1997.
 * Mac Cumhail, Clare; Wiseman, Racheal: The Quartet. Wie vier Frauen die Philosophie zurück ins Leben brachten. München 2022. (Original: Metaphysical Animals. How Four Women Brought Philosophy Back to Life.) 
 
 
