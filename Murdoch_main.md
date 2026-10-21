@@ -11,6 +11,10 @@ narrator: UK English Female
 
 # Iris Murdoch: Die Souveränität des Guten
 
+![alt-text](\img\Iris-Murdoch-2.jpg)
+
+
+
 * Moritz Riemann (<riemann@philsem.uni-kiel.de>)
 * Sprechstunde: Mittwoch 10:15-11:30, Boschstraße 1, R. 01.001
 
