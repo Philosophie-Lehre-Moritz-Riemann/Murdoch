@@ -52,19 +52,19 @@ narrator: UK English Female
 ## Semesterplan
 |21.10.2026| **Eröffnung, Organisatorisches** | **Protokoll** |
 |-----------------|-----------|-----------------|
-| 28.10.2026 |Die Idee der Vollkommenheit|---|
-| 04.11.2026 |Die Idee der Vollkommenheit|---|
-| 11.11.2026 |Die Idee der Vollkommenheit|---|
-| 18.11.2026 |Die Idee der Vollkommenheit|---|
+| 28.10.2026 |Die Idee der Vollkommenheit|Lili Dentler, Hewi Özyigit|
+| 04.11.2026 |Die Idee der Vollkommenheit|Louisa Nürnberg, Alea Rohwer|
+| 11.11.2026 |Die Idee der Vollkommenheit|Umed Ahmad|
+| 18.11.2026 |Die Idee der Vollkommenheit|Salmana Khan, Lenie Wendeler|
 | 25.11.2026 |Über "Gott" und "Gut"|Sitzung entfällt eventuell|
-| 02.12.2026 |Über "Gott" und "Gut"|---|
-| 09.12.2026 |Über "Gott" und "Gut"|---|
-| 16.12.2026 |Die Souveränität des Guten über andere Begriffe|---|
+| 02.12.2026 |Über "Gott" und "Gut"|Ece Dursun, Ellen Sophie Naunin |
+| 09.12.2026 |Über "Gott" und "Gut"|Jori Maschler, Samantha Kulke|
+| 16.12.2026 |Die Souveränität des Guten über andere Begriffe|Jacqueline Hawemann|
 | 21.12.2026-03.01.2027 |**unterrichtsfrei**|---|
-| 06.01.2027 |Die Souveränität des Guten über andere Begriffe|---|
+| 06.01.2027 |Die Souveränität des Guten über andere Begriffe|Michelle Petersen|
 | 13.01.2027 |Sitzung entfällt|---|
-| 20.01.2027 |Die Souveränität des Guten über andere Begriffe|---|
-| 27.01.2027 |Nachwort von Düringer und Themenfindung |---|
+| 20.01.2027 |Die Souveränität des Guten über andere Begriffe|Ronya Köhncke|
+| 27.01.2027 |Nachwort von Düringer und Themenfindung |Knut Guse|
 | 03.02.2027 |**Abschlussdiskussion**|kein Protokoll|
 |KW 6 | Abschlussklausur ||
 
@@ -203,3 +203,32 @@ Es bestehen verschiedene Möglichkeiten, einen Essay zu verfassen. Jonas Pfister
 [^3]: Vgl. Pfister, Jonas: *Werkzeuge des Philosophierens*. S.246-250.
 
 [^4]: Vgl. Rosenberg, Jay F.: *Philosophieren. Ein Handbuch für Anfänger*. Frankfurt a. M. 2009. S.81.
+
+
+## 27.10.2026
+
+Textgrundlage: Die Idee der Vollkommenheit, S. 16-25
+
+### Think, Pair, Share
+
+Bitte denkt 5 Minuten über folgende Fragen nach:
+
+1. Wie lässt sich mit Iris Murdoch die Vorstellung von Vollkommenheit und (moralischem) Fortschritt einordnen?
+2. Wie charakterisiert und kritisiert Murdoch das Menschenbild, das sie in der Moralphilosophie ihrer Zeit identifiziert?
+3. Habt ihr Fragen zum Text, zu Begriffen und Konzepten? Was ist euch unklar?
+4. Sucht euch eine kurze Textstelle aus, über die ihr genauer diskutieren wollt.
+
+Unterhaltet euch danach 10 Minuten lang mit der Person neben euch über Fragen und Text. 
+Bringt anschließend eure Zugänge und Fragen in die Plenumsdiskussion ein.
+
+## 4.11.2026
+
+Textgrundlage: Die Idee der Vollkommenheit, S. 25-40
+
+## 11.11.2026
+
+Textgrundlage: Die Idee der Vollkommenheit, S. 35-50
+
+## 18.11.2026
+
+Textgrundlage: Die Idee der Vollkommmenheit, S. 50-61 
