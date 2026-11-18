@@ -227,13 +227,57 @@ Bitte denkt 5 Minuten über folgende Fragen nach:
 Unterhaltet euch danach 10 Minuten lang mit der Person neben euch über Fragen und Text. 
 Bringt anschließend eure Zugänge und Fragen in die Plenumsdiskussion ein.
 
+### Protokoll von Lilly Dentler-Peter
+
+**Einleitung/Zielsetzung der Sitzung zum 28.10.26**
+
+In der Seminarsitzung vom 28. Oktober 2026 haben wir den ersten Abschnitt von Iris Murdochs Aufsatz „Souveränität des Guten“ behandelt. Dabei ging es darum, Murdochs Kritik an der Moral Philosophie des 20.Jahrhunderts zu verstehen. Außerdem haben wir uns mit ihrer Vorstellung von Moral beschäftigt, bei der Liebe, Aufmerksamkeit und die innere Haltung eine wichtige Rolle spielen.
+
+Im Seminar haben wir uns mit Murdochs Menschenbild und ihrer Kritik von anderen Philosophen Vorstellungen vom Menschen auseinandergesetzt. Wir haben gemeinsam darüber gesprochen, worin der Unterschied zwischen Denken und Wollen liegt. In diesem Protokoll fasse ich den Text, die Textanalysen, die Diskussionen im Seminar und die wichtigsten Ergebnisse zusammen.
+
+**Rekonstruktion der Textgrundlage** 
+
+Iris Murdochs „Die Idee der Vollkommenheit“ geht ursprünglich auf drei in den 1960er Jahren verfasste und separat veröffentlichte Aufsätze zurück (S.15). Murdoch sieht eine Krise in der modernen Ethik: Die Philosophie schwanke zwischen unanschaulichen Theorien und der Wirklichkeit des Alltags. Murdoch bringt dies auf den Punkt, „es bewegt sich zur Konstruktion ellaborierter Theorien, und es bewegt sich zurück zu Betrachtung einfacher und offensichtlicher Tatsachen.“ (S.16)
+
+Daraus leitet Murdoch vier zentrale Kritikpunkte ab, Starre Theoriebindung: die zeitgenössische Philosophie ignoriere das tatsächlich menschliche Innenleben. Sie lege sich starr auf eine einzige Theorie fest und verschließe sich anderen Ansätzen (S.16). Vergessen zentraler Begriffe: Wichtige Begriffe wie das innere Bewusstsein, die Tugend und vor allem die Liebe seien aus der Moralphilosophie fast völlig verschwunden (S.16). Wert des ungeprüften Lebens: Murdoch wendet sich gegen die Ansicht, dass nur ein ständig philosophisch geprüftes Leben moralisch wertvoll sei. Auch ein ungeprüftes Leben könne Tugend besitzen (S.16). Verbindung von Freiheit und Liebe: Freiheit dürfe kein beliebiger, isolierter Wahlakt sein. Echtes freies Handeln sei immer an Aufmerksamkeit und Liebe gebunden (S.16). In Auseinandersetzung mit Stuart Hampshire hebt Murdoch hervor, dass die Philosophie den Menschen Begriffe an die Hand geben müsse, um moralische Werte klar ausdrücken zu können (S.17).
+
+**Der „Ladenvergleich“**
+
+Um das falsche Moralverständnis ihrer Zeit zu veranschaulichen, nutzt Murdoch den Vergleich mit einem Laden wo man einkaufen gehen kann. „Man betritt den Laden, vergleicht die Waren und wählt aus.“ (S.23) Nach der damaligen Philosophie trete der Mensch der Welt wie ein neutraler Käufer gegenüber, der im Laden Handlungsoptionen vergleicht und dann auswählt (S.23). Murdoch kritisiert diesen Vergleich: Er reduziere die Moral auf seltene Wahlmomente (S.23). Dabei wird vergessen, dass die eigentliche moralische Arbeit lange vor der Wahl stattfindet. Und zwar die innere Wahrnehmung und die Art wie man die Welt betrachtet (S.23).
+
+Wichtig zu erwähnen sind die drei vorherrschenden Theorien, Behaviorismus: Beachtet nur beobachtbares Verhalten nach außen (S.24). Existenzialismus: Betont den freien Willen und die genaue Entscheidung ohne innere Bindung (S.24). Utilitarismus: Berücksichtigt nur die Nützlichkeit von Handlungen (S.24). Diese Theorien betrachtet das innere Erleben als „parasitär“, als etwas, das nur vom äußeren abhängt (S.25).
+
+**Plenumsdisskusion/Think-Pair-Share**
+
+Das Seminar verlief in drei Schritten: **Einstieg**- Besprechung des vorbereiteten Textes (S.15-25). **Gruppenarbeit**- Bearbeitung von vier Leitfragen in Kleingruppen sowie im kleineres kreis ein Austausch oder auch Diskussion über bestimmte Textstellen. **Diskussion im Plenum**- Vertiefung des Textabschnittes, Diskussion über Fragen, Textstellen etc. Die Seminarteilnehmenden erörterten Murdochs Begriff der Vollkommenheit. Im Gespräch wurde hervorgehoben das die damalige Ethik den moralischen Fortschritt wie einen Supermarkt Besuch dargestellt hatte. Murdoch halte dem entgegen, dass Vollkommenheit kein fertiges Produkt sei. Echter Fortschritt bestehe darin, die Wahrnehmung einzuordnen lernen.
+
+In der Gruppe führten die Studierenden das Bild des Palimpsests (eines mehrfach überschriebenen Pergaments) ein: Das menschliche Bewusstsein sei wie eine alte Schriftrolle aufgebaut, bei der neue Sichtweisen alte Wahrnehmungen überlagern. Die Studierenden arbeiteten heraus, dass das moderne Menschenbild vom Behaviorismus und Existenzialismus geprägt war. Murdoch werfe diese Strömungen vor, den Menschen auf einen isolierten Teilnehmer zu reduzieren. Innere Gefühle, Phantasie und die eigene Lebensgeschichte würden dabei völlig außer Acht gelassen.
+
+Im Plenum wurde des häufigen gesagt das Murdochs Schreibstil schwierig zu lesen war. Murdoch wechsle oft spontan zwischen eigenen Gedanken, Kritik und Theorien von anderen Philosophen. Man muss den Text aufmerksam gelesen haben, um Murdoch folgen zu können. Der Text wurde auch als tentativ bezeichnet.
+
+Auf die Frage, wozu der Wille überhaupt gut sei- Der Wille könne Gedankengänge zwar nicht inhaltlich ändern, aber er könne sie unterbrechen oder umlenken. Der Wille steuere die Aufmerksamkeit. Er entscheide darüber, worauf man seinen Blick richtet und womit man sich beschäftigt. 
+
+Das Plenum stellte fest, dass Behaviorismus und Existenzialismus den Willen fälschlicherweise als alleinigen Motor menschlichen Handelns sehen. Murdoch zeigt dagegen, dass gutes Handeln das Ergebnis von aufmerksamer Wahrnehmung und innerer Reifung ist.
+
+Im Seminar wurden außerdem viele Fachbegriffe nochmal erklärt und definiert, wie z.B. Cogitatio, Bei Descartes die Bezeichnung für Bewusstseinseindrücke (S.25).
+
+**Offene Fragestellungen/Sitzungsbilanz**
+
+Die Seminarsitzung bringt hervor, dass Moral nicht nur davon abhängt, wie wir handeln, sondern auch davon, wie wir die Welt wahrnehmen. Unser inneres Leben spielt dabei eine wichtige Rolle. Der Wille kann keine Einsichten erzwingen, sondern hilft uns, den Blick auf das Gute zu richten. Folgende Fragen sind für mich offengeblieben: Wie passt Murdochs Lob des ungeprüften Lebens zur philosophischen Reflexion? Inwiefern ist Moral rationalisierbar?
+
 ## 4.11.2026
 
 Textgrundlage: Die Idee der Vollkommenheit, S. 25-40
 
+ 
+
+
+
 ## 11.11.2026
 
 Textgrundlage: Die Idee der Vollkommenheit, S. 35-50
+
+### Protokoll von Lea Fuchs
 
 ## 18.11.2026
 
