@@ -54,9 +54,9 @@ narrator: UK English Female
 |-----------------|-----------|-----------------|
 | 28.10.2026 |Die Idee der Vollkommenheit|Lili Dentler, Hewi Özyigit|
 | 04.11.2026 |Die Idee der Vollkommenheit|Louisa Nürnberg, Alea Rohwer|
-| 11.11.2026 |Die Idee der Vollkommenheit|Umed Ahmad, Lea Fuchs|
-| 18.11.2026 |Die Idee der Vollkommenheit|Salmana Khan, Lenie Wendeler, Leonie Naue|
-| 25.11.2026 |Über "Gott" und "Gut"|**Sitzung findet statt**|
+| 11.11.2026 |Die Idee der Vollkommenheit|Lea Fuchs|
+| 18.11.2026 |Die Idee der Vollkommenheit|Lenie Wendeler, Leonie Naue|
+| 25.11.2026 |Über "Gott" und "Gut"|Rene Fidel|
 | 02.12.2026 |Über "Gott" und "Gut"|Ece Dursun, Ellen Sophie Naunin, Aleina Esen |
 | 09.12.2026 |Über "Gott" und "Gut"|Jori Maschler, Samantha Kulke|
 | 16.12.2026 |Die Souveränität des Guten über andere Begriffe|Jacqueline Hawemann, Calvin Hamila|
@@ -64,7 +64,7 @@ narrator: UK English Female
 | 06.01.2027 |Die Souveränität des Guten über andere Begriffe|Michelle Petersen, Theo Braun|
 | 13.01.2027 |Sitzung entfällt|---|
 | 20.01.2027 |Die Souveränität des Guten über andere Begriffe|Ronya Köhncke, Tim Urbat|
-| 27.01.2027 |Nachwort von Düringer und Themenfindung, **Abschlussdiskussion**|Knut Guse, Rene Fidel|
+| 27.01.2027 |Nachwort von Düringer und Themenfindung, **Abschlussdiskussion**|Knut Guse|
 | 03.02.2027 |**Sitzung entfällt**|kein Protokoll|
 |KW 6 | Abschlussklausur |---|
 
