@@ -282,3 +282,10 @@ Textgrundlage: Die Idee der Vollkommenheit, S. 35-50
 ## 18.11.2026
 
 Textgrundlage: Die Idee der Vollkommmenheit, S. 50-61 
+
+
+### Simone Weil: Attention
+
+Die Aufmerksamkeit ist eine Anstrengung, vielleicht die größte von allen, aber sie ist eine negative Anstrengung. Sie selbst ermüdet nicht. … Die Aufmerksamkeit besteht darin, das Denken auszusetzen, den Geist verfügbar, leer und für den Gegenstand offen zu halten, die verschiedenen erworbenen Kenntnisse, die man zu benutzen genötigt ist, in sich dem Geist zwar nahe und erreichbar, doch auf einer tieferen Stufe zu erhalten, ohne dass sie ihn berührten. … Und vor allem soll der Geist leer sein, wartend, nichts suchend, aber bereit, den Gegenstand, der in ihn eingehen wird, in seiner nackten Wahrheit aufzunehmen. 
+
+(Zeugnis für das Gute,Traktate, Briefe, Aufzeichnungen. Olten 1979, S. 61)
