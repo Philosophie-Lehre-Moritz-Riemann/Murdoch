@@ -66,7 +66,7 @@ narrator: UK English Female
 | 20.01.2027 |Die Souveränität des Guten über andere Begriffe|Ronya Köhncke, Tim Urbat|
 | 27.01.2027 |Nachwort von Düringer und Themenfindung, **Abschlussdiskussion**|Knut Guse, Rene Fidel|
 | 03.02.2027 |**Sitzung entfällt**|kein Protokoll|
-|KW 6 | Abschlussklausur ||
+|KW 6 | Abschlussklausur |---|
 
 
 ## Literaturempfehlungen
@@ -148,12 +148,18 @@ Quelle: Kirsten Schindler: Klausur, Protokoll, Essay. Kleine Texte optimal verfa
  6. Haben Sie die Sitzungsinhalte gegliedert?
  7. Ist Ihr Text ergebnisorientiert verfasst?
  8. Lassen sich die wichtigsten Inhalte der Sitzung anhand Ihres Textes nachvollziehen? Stellen Sie sich vor, Sie müssten einer Kommiliton:in berichten, die bei der Sitzung fehlte.
- 9. Bei digitaler Abgabe: Haben Sie Ihr Dokument als .pdf exportiert?
+  9. Bei digitaler Abgabe: Haben Sie Ihr Dokument als .md und als .pdf exportiert?
 10. Haben Sie alle Punkte der Checkliste berücksichtigt?
 11. Haben Sie Ihr Protokoll auf OLAT in den Abgabeordner geladen?
 
+
 ### VI. Vorstellung des Protokolls in der nächsten Sitzung
-* Bereiten Sie Ihr Protokoll so vor, dass Sie zu Beginn der darauffolgenden Sitzung in 5 Minuten die Inhalte der protokollierten Sitzung für die                    Seminarteilnehmenden zusammenfassen können.
+
+* Bereiten Sie Ihr Protokoll so vor, dass Sie zu Beginn der darauffolgenden Sitzung in 5 Minuten die Inhalte der protokollierten Sitzung für die Seminarteilnehmenden zusammenfassen können.
+* Für das Kursmaterial geben Sie Ihr Protokoll bitte auch als Markdown-Dokument (.md) ab. [Markdown](https://www.markdownguide.org/getting-started/) ist eine sehr einfache Markup-Auszeichnungssprache, in der das Kursmaterial geschrieben ist.
+
+
+
 
 ## Der Essay als Prüfungsart in den Bachelor- und Masterstudiengängen Philosophi
 
